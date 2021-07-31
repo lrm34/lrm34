@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lrm34
 - 👀 I’m interested in Cyber-Security and Ethical Hacking
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a student persuing my BS in Cyber-Security with an emphasis in Penetration Testing
+- 💞️ I’m looking to collaborate on projects that I can contribute to gain some hands on experience
 - 📫 How to reach me ...
 
 <!---
